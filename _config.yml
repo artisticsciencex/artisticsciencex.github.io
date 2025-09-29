@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Qing
+# middle_name: R.
+last_name: Zhang
 keywords: Programmable Vision, Visual Perception Manipulation, Human-AI Co-creation, Human-Computer Interaction, Wearable Computing, Smart Eyewear # add your own keywords or leave empty
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
