@@ -454,12 +454,10 @@ ninja.data = [{
             },},{id: "news-two-papers-were-accepted-by-neurips-25-creative-ai-track",
           title: 'Two papers were accepted by NeurIPS’25 creative ai track.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-a-demo-paper-has-been-accepted-by-siggraph-asia-emerging-technologies",
+          title: 'A demo paper has been accepted by SIGGRAPH Asia Emerging Technologies.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/en-us/announcement_2/";
-            },},{id: "news-one-paper-beyond-symbols-motion-perception-cues-enhance-dual-task-performance-with-wearable-directional-guidance-has-been-accepted-by-ubicomp-iswc-2025",
+          section: "News",},{id: "news-one-paper-beyond-symbols-motion-perception-cues-enhance-dual-task-performance-with-wearable-directional-guidance-has-been-accepted-by-ubicomp-iswc-2025",
           title: 'One paper, “Beyond Symbols: Motion Perception Cues Enhance Dual-Task Performance with Wearable Directional...',
           description: "",
           section: "News",},{id: "projects-project-7",
