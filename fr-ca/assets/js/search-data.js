@@ -434,8 +434,8 @@ ninja.data = [{
           section: "projets",handler: () => {
               window.location.href = "/fr-ca/projects/9_project/";
             },},{id: "projects-dynamically-adjustable-peripheral-vision",
-          title: 'dynamically adjustable peripheral vision',
-          description: "with background image",
+          title: 'Dynamically Adjustable Peripheral Vision',
+          description: "Ubicomp/ISWC&#39;21 short paper",
           section: "projets",handler: () => {
               window.location.href = "/fr-ca/projects/en-us/1_project/";
             },},{id: "projects-project-2",
