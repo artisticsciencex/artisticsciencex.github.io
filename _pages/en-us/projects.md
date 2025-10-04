@@ -6,7 +6,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, fun, smart eyewear, programmable vision, Gaze-based Interaction & Analysis, Interactive Systems & Media Art, Human-AI Interaction]
 horizontal: false
 ---
 

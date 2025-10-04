@@ -1,11 +1,11 @@
 ---
 page_id: project_1
 layout: page
-title: project 1
+title: dynamically adjustable peripheral vision
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: programmable vision, smart eyewear
 related_publications: true
 ---
 
