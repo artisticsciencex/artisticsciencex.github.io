@@ -12,7 +12,12 @@
     - title: PhD
       institution: Keio University, Tokyo, Japan
       year: 2023
-
+    - title: MFA(Master of Fine Arts)
+      institution: Tokyo University of the Arts, Tokyo, Japan
+      year: 2019
+    - title: BA
+      institution: Hubei Institute of Fine Arts, Hubei, China
+      year: 2013
 
 - title: Experience
   type: time_table
@@ -25,31 +30,24 @@
       year: 2023 - 2024
 
 
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1900
-      items:
-        - award name
-        - award name
-    - year: 1900
-      items:
-        - award name
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Human-Computer Interaction.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Wearable Computing (e.g., smart eyewear).
+        - Programmable Vision.
+        - Visual Perception Manipulation.
+    - title: Human-AI Interaction.
       items:
-        - Description 1.
-        - Description 2.
+        - Human-AI Co-Creation.
+        - Seamless AI Interface.
+    - title: Human-Robot Interaction.
+      items:
+        - Yowai(weak) Robot.
+        
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Prototyping, Assembling Bike, Photography, Cooking.
