@@ -18,11 +18,11 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/1/ISWC.jpg" title="ISWC21_teaser" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Tunnel Vision glasses help the user deal with motion sickness. Left, the user can see through the glasses as usual; middle, the glasses start to block visual stimuli in the peripheral vision; right, if the user starts to move their gaze away from the center, the glasses return to their transparent state.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
