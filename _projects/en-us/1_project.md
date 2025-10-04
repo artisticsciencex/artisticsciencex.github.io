@@ -1,19 +1,15 @@
 ---
 page_id: project_1
 layout: page
-title: dynamically adjustable peripheral vision
-description: with background image
-img: assets/img/12.jpg
+title: Dynamically Adjustable Peripheral Vision
+description: Ubicomp/ISWC'21 short paper
+img: assets/img/projects/1/SaliencyGlasses.JPG
 importance: 1
 category: programmable_vision
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Motion sickness affects roughly a third of all people. Narrowing the field of view (FOV) can help to reduce motion sickness symptoms. In this paper, we present Tunnel Vision, a type of smart glasses that can dynamically block a wearer's peripheral vision area using switchable polymer dispersed liquid crystal (PDLC) film. We evaluate the prototype in a virtual reality environment. Our experiments (n=19) suggest that Tunnel Vision statistically significantly reduces the following Simulator Sickness Questionnaire (SSQ)  related motion sickness symptoms without impacting immersion: "difficulty concentrating" (F(2,35) = 4.121, p = 0.025), "head feeling heavy" (F(2,35) = 3.231, p = 0.051) and "nausea" (F(2,35) = 3.145, p = 0.055).
 
 
 <div class="row">
@@ -25,20 +21,6 @@ To give your project a background in the portfolio page, just add the img tag to
     Tunnel Vision glasses help the user deal with motion sickness. Left, the user can see through the glasses as usual; middle, the glasses start to block visual stimuli in the peripheral vision; right, if the user starts to move their gaze away from the center, the glasses return to their transparent state.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 
