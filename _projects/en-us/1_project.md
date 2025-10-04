@@ -5,7 +5,7 @@ title: dynamically adjustable peripheral vision
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: programmable vision
+category: programmable_vision
 related_publications: true
 ---
 
