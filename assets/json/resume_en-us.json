@@ -7,137 +7,634 @@
     "url": "https://artisticsciencex.github.io/",
     "summary": "Dr. Qing Zhang is an HCI researcher at the University of Tokyo specializing in wearable computing, human-AI co-creation, and the design of 24/7 AI assistants."
   },
-  "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ],
-  "work": [
-    {
-      "name": "The University of Tokyo",
-      "position": "Projest Assistant Professor",
-      "url": "https://lab.rekimoto.org/",
-      "startDate": "2023-04-01",
-      "endDate": "-",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
   "education": [
     {
       "institution": "Keio University",
       "location": "Tokyo, Japan",
-      "url": "https://www.keio.ac.jp/ja/",
+      "url": "https://researchmap.jp/qingzhang/education/46382980",
       "area": "Media Design",
       "studyType": "PhD",
       "startDate": "2020-04-01",
-      "endDate": "2023-03-10",
+      "endDate": "2023-03-31",
       "score": "",
-      "courses": [""]
+      "courses": []
+    },
+    {
+      "institution": "Tokyo University of the Arts",
+      "location": "Tokyo, Japan",
+      "url": "https://researchmap.jp/qingzhang/education/46382979",
+      "area": "Global Art Practice",
+      "studyType": "Master's",
+      "startDate": "2017-04-01",
+      "endDate": "2019-03-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Hubei Institute of Fine Arts",
+      "location": "Wuhan, China",
+      "url": "https://researchmap.jp/qingzhang/education/46382982",
+      "area": "Fine Arts (Mural Painting)",
+      "studyType": "Bachelor's",
+      "startDate": "2009-10-01",
+      "endDate": "2013-06-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "name": "Institute of Science Tokyo, Augmented Vision Lab",
+      "position": "Visiting Researcher",
+      "url": "",
+      "startDate": "2026",
+      "endDate": "2027",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "The University of Tokyo, Ishiguro Lab",
+      "position": "Project Researcher",
+      "url": "",
+      "startDate": "2026",
+      "endDate": "2027",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "The University of Tokyo, Rekimoto Lab",
+      "position": "Project Assistant Professor",
+      "url": "https://lab.rekimoto.org/",
+      "startDate": "2024",
+      "endDate": "2026",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "The University of Tokyo, Rekimoto Lab",
+      "position": "Project Researcher",
+      "url": "https://lab.rekimoto.org/",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "NVIDIA Academic Grant",
+      "date": "2026",
+      "awarder": "NVIDIA",
       "url": "",
       "summary": ""
+    },
+    {
+      "title": "Best Paper Honorable Mention (Top 2%)",
+      "date": "2026",
+      "awarder": "Augmented Humans International Conference (AHs 2026)",
+      "url": "https://doi.org/10.1145/3795011.3795035",
+      "summary": "For OpticalAging: Real-time Presbyopia Simulation for Inclusive Design via Tunable Lenses."
+    },
+    {
+      "title": "Best Paper Honorable Mention",
+      "date": "2025",
+      "awarder": "Augmented Humans International Conference (AHs 2025)",
+      "url": "https://doi.org/10.1145/3745900.3746080",
+      "summary": "For Cuddle-Fish (with mentored students)."
+    },
+    {
+      "title": "Best Demo Award",
+      "date": "2024",
+      "awarder": "ACM Symposium on Spatial User Interaction (SUI '24)",
+      "url": "https://doi.org/10.1145/3677386.3688878",
+      "summary": "With mentored students."
+    },
+    {
+      "title": "Best Poster Award",
+      "date": "2024",
+      "awarder": "Augmented Humans International Conference (AHs 2024)",
+      "url": "https://doi.org/10.1145/3652920.3653053",
+      "summary": "For AgedEyes: Optically Simulating Presbyopia Using Tunable Lenses."
+    },
+    {
+      "title": "Silver Prize (approx. JPY 1,000,000)",
+      "date": "2024",
+      "awarder": "Jimeng (ByteDance) AI UI/UX Design Contest",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Poster Award",
+      "date": "2023",
+      "awarder": "Augmented Humans International Conference (AHs 2023)",
+      "url": "https://doi.org/10.1145/3582700.3583708",
+      "summary": "With mentored students."
+    },
+    {
+      "title": "Most Excellent Presentation Award",
+      "date": "2023",
+      "awarder": "Keio AIC Conference 2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Most Creative (Top Award), Student Design Competition",
+      "date": "2022",
+      "awarder": "ACM MobileHCI 2022",
+      "url": "",
+      "summary": "Team Leader; prize approx. JPY 450,000. Mouth Movements based Human Smart Glasses Interactive System Design."
     }
   ],
-  "certificates": [
+  "grants": [
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
+      "title": "Fund for the Promotion of Joint International Research (International Collaborative Research, B)",
+      "date": "2025-2028",
+      "awarder": "JSPS",
       "url": "",
-      "icon": ""
+      "summary": "Reconstructing fragmented experience: first-person MLLM support for the cognitive well-being of older adults. JPY 15,340k."
     },
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
+      "title": "Grant-in-Aid for Early-Career Scientists (Wakate)",
+      "date": "2025-2028",
+      "awarder": "JSPS",
       "url": "",
-      "icon": ""
+      "summary": "Universal design support via first-person experience of aged vision for an aging society. JPY 4,680k."
     },
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
+      "title": "UTokyo-Princeton Joint Research & Education Project",
+      "date": "2025-2026",
+      "awarder": "The University of Tokyo",
       "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
+      "summary": "Principal Investigator (UTokyo side). JPY 1,800k."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+      "publisher": "35th International Joint Conference on Artificial Intelligence (IJCAI 2026), Human-Centred AI Track",
+      "releaseDate": "2026-08-15",
+      "url": "https://2026.ijcai.org/accepted-papers/?ijtrack=special-track-on-human-centred-ai",
+      "summary": "Zhang, Q., Huang, Y., Lee, J., Starner, T., Rekimoto, J. — Bremen, Germany (to be presented Aug 2026).",
+      "type": "paper"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "OpticalAging: Real-time Presbyopia Simulation for Inclusive Design via Tunable Lenses",
+      "publisher": "Augmented Humans International Conference 2026 (AHs '26)",
+      "releaseDate": "2026-03-16",
+      "url": "https://doi.org/10.1145/3795011.3795035",
+      "summary": "Zhang, Q., Su, Z., Kondoh, Y., Asada, K., Starner, T., Kunze, K., Itoh, Y., Rekimoto, J. — Best Paper Honorable Mention.",
+      "type": "paper"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud",
+      "publisher": "Advances in Neural Information Processing Systems (NeurIPS 2025), Creative AI Track",
+      "releaseDate": "2025-12-10",
+      "url": "https://openreview.net/pdf?id=ouI9LWDi9S",
+      "summary": "Zhang, Q., Huang, J., Xu, M., Rekimoto, J.",
+      "type": "paper"
+    },
+    {
+      "name": "Panel-by-Panel Souls: A Performative Workflow for Expressive Faces in AI-Assisted Manga Creation",
+      "publisher": "Advances in Neural Information Processing Systems (NeurIPS 2025), Creative AI Track",
+      "releaseDate": "2025-12-11",
+      "url": "https://openreview.net/pdf?id=EI9PCu5oFp",
+      "summary": "Zhang, Q., Huang, J., Huang, Y., Rekimoto, J.",
+      "type": "paper"
+    },
+    {
+      "name": "Beyond Symbols: Motion Perception Cues Enhance Dual-Task Performance with Wearable Directional Guidance",
+      "publisher": "ACM International Symposium on Wearable Computers (UbiComp/ISWC '25)",
+      "releaseDate": "2025-10-12",
+      "url": "https://doi.org/10.1145/3715071.3750418",
+      "summary": "Zhang, Q., Chen, J., Huang, Y., Huang, J., Starner, T., Kunze, K., Rekimoto, J.",
+      "type": "paper"
+    },
+    {
+      "name": "Cuddle-Fish: Exploring a Soft Floating Robot with Flapping Wings for Physical Interactions",
+      "publisher": "Augmented Humans International Conference 2025 (AHs '25)",
+      "releaseDate": "2025-03-16",
+      "url": "https://doi.org/10.1145/3745900.3746080",
+      "summary": "Xu, M., Shao, J., Ju, Y., et al., Zhang, Q., et al., Kunze, K. — Best Paper Honorable Mention (with mentored students).",
+      "type": "paper"
+    },
+    {
+      "name": "Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students' Awareness of Visual Impairment",
+      "publisher": "35th ACM Symposium on User Interface Software and Technology (UIST '22)",
+      "releaseDate": "2022-10-29",
+      "url": "https://doi.org/10.1145/3526113.3545687",
+      "summary": "Zhang, Q., Barbareschi, G., Huang, Y., Li, J., Pai, Y. S., Ward, J., Kunze, K.",
+      "type": "paper"
+    },
+    {
+      "name": "Tunnel Vision: Dynamic Peripheral Vision Blocking Glasses for Reducing Motion Sickness Symptoms",
+      "publisher": "ACM International Symposium on Wearable Computers (UbiComp/ISWC '21)",
+      "releaseDate": "2021-09-21",
+      "url": "https://doi.org/10.1145/3460421.3478824",
+      "summary": "Zhang, Q., Yamamura, H., Baldauf, H., Zheng, D., Chen, K., Yamaoka, J., Kunze, K.",
+      "type": "paper"
+    },
+    {
+      "name": "Pinching Tactile Display: End-to-End Vibration Transmission for Fabric Tactile Sensation",
+      "publisher": "Extended Abstracts, CHI Conference on Human Factors in Computing Systems (CHI EA '26)",
+      "releaseDate": "2026-04-13",
+      "url": "https://doi.org/10.1145/3772363.3799072",
+      "summary": "Kitagishi, T., Zhang, Q., Rekimoto, J. — Barcelona, Spain.",
+      "type": "poster"
+    },
+    {
+      "name": "AutoGaze: A SAM2-based Pipeline for Automated Eye-Object Interaction Analysis in First-Person Videos",
+      "publisher": "IEEE VR Workshops 2025 (pp. 897-900)",
+      "releaseDate": "2025-03-22",
+      "url": "https://doi.org/10.1109/VRW66409.2025.00183",
+      "summary": "Zhang, Q., Huang, Y., Rekimoto, J. (with mentored students).",
+      "type": "poster"
+    },
+    {
+      "name": "Look and Talk: Seamless AI Assistant Interaction with Gaze-Triggered Activation",
+      "publisher": "Augmented Humans International Conference 2025 (AHs '25)",
+      "releaseDate": "2025-03-17",
+      "url": "https://doi.org/10.1145/3745900.3746107",
+      "summary": "Zhang, Q., Rekimoto, J.",
+      "type": "poster"
+    },
+    {
+      "name": "Spread Your Wings: Demonstrating a Soft Floating Robotic Avatar with Flapping Wings for Novel Physical Interactions",
+      "publisher": "ACM SIGGRAPH 2025 Emerging Technologies",
+      "releaseDate": "2025-08-10",
+      "url": "https://doi.org/10.1145/3721257.3734034",
+      "summary": "Xu, M., Ju, Y., Zhang, Q., et al., Kunze, K., Minamizawa, K. (with mentored students).",
+      "type": "poster"
+    },
+    {
+      "name": "Pro's Eyes: A Wearable System for Synchronous and Asynchronous Observational Pattern Learning",
+      "publisher": "SIGGRAPH Asia 2025 Emerging Technologies",
+      "releaseDate": "2025-12-15",
+      "url": "https://doi.org/10.1145/3757373.3763766",
+      "summary": "Zhang, Q., Huang, J., Itoh, Y., Starner, T., Kunze, K., Rekimoto, J.",
+      "type": "poster"
+    },
+    {
+      "name": "Real-Time Bidirectional Head Rotation Sharing for Collaborative Interaction Enhancement",
+      "publisher": "ACM Symposium on Spatial User Interaction (SUI '24)",
+      "releaseDate": "2024-10-07",
+      "url": "https://doi.org/10.1145/3677386.3688878",
+      "summary": "Li, W., Nakamura, T., Zhang, Q., Rekimoto, J. — Best Demo Award (with mentored students).",
+      "type": "poster"
+    },
+    {
+      "name": "AgedEyes: Optically Simulating Presbyopia Using Tunable Lenses",
+      "publisher": "Augmented Humans International Conference 2024 (AHs '24)",
+      "releaseDate": "2024-04-01",
+      "url": "https://doi.org/10.1145/3652920.3653053",
+      "summary": "Zhang, Q., Kondoh, Y., Itoh, Y., Rekimoto, J. — Best Poster Award.",
+      "type": "poster"
+    },
+    {
+      "name": "Affec-tive Wings: Exploring Affectionate Behaviors in Close-Proximity Interactions with Soft Floating Robots",
+      "publisher": "SIGGRAPH Asia 2024 Posters",
+      "releaseDate": "2024-12-03",
+      "url": "https://doi.org/10.1145/3681756.3697951",
+      "summary": "Xu, M., Ju, Y., Qi, Y., Meng, X., Zhang, Q., et al., Kunze, K. (with mentored students).",
+      "type": "poster"
+    },
+    {
+      "name": "Mapping Gaze and Head Movement via Salience Modulation and Hanger Reflex",
+      "publisher": "Adjunct Proceedings, ACM Symposium on User Interface Software and Technology (UIST Adjunct '24)",
+      "releaseDate": "2024-10-13",
+      "url": "https://doi.org/10.1145/3672539.3686349",
+      "summary": "Li, W., Zhang, Q., Nakamura, T., Lai, S., Rekimoto, J. (with mentored students).",
+      "type": "poster"
+    },
+    {
+      "name": "First Bite/Chew: Distinguish Typical Allergic Food by Two IMUs",
+      "publisher": "Augmented Humans International Conference 2023 (AHs '23)",
+      "releaseDate": "2023-03-12",
+      "url": "https://doi.org/10.1145/3582700.3583708",
+      "summary": "Li, J., Wang, X., Chen, J., Starner, T., Chernyshov, G., Huang, J., Huang, Y., Kunze, K., Zhang, Q. — Best Poster Award (with mentored students).",
+      "type": "poster"
+    },
+    {
+      "name": "First Bite/Chew: Distinguish Different Types of Food by First Biting/Chewing and the Corresponding Hand Movement",
+      "publisher": "Extended Abstracts, CHI Conference on Human Factors in Computing Systems (CHI EA '23)",
+      "releaseDate": "2023-04-23",
+      "url": "https://doi.org/10.1145/3544549.3585845",
+      "summary": "Chen, J., Wang, X., Li, J., Chernyshov, G., Huang, Y., Kunze, K., Huang, J., Starner, T., Zhang, Q. (corresponding author; with mentored students).",
+      "type": "poster"
+    },
+    {
+      "name": "Experience Visual Impairment via Optical See-through Smart Glasses",
+      "publisher": "Adjunct Proceedings, ACM Symposium on User Interface Software and Technology (UIST '22 Adjunct)",
+      "releaseDate": "2022-10-30",
+      "url": "https://doi.org/10.1145/3526114.3558617",
+      "summary": "Zhang, Q., Wang, X., Starner, T., Huang, Y., Chernyshov, G., Barbareschi, G., Pai, Y. S., Huang, J., Yamaoka, J., Ward, J. A., Kunze, K.",
+      "type": "poster"
+    },
+    {
+      "name": "GazeSync: Eye Movement Transfer Using an Optical Eye Tracker and Monochrome Liquid Crystal Displays",
+      "publisher": "27th International Conference on Intelligent User Interfaces (IUI '22 Companion)",
+      "releaseDate": "2022-03-22",
+      "url": "https://doi.org/10.1145/3490100.3516469",
+      "summary": "Zhang, Q., Huang, Y., Chernyshov, G., Li, J., Pai, Y. S., Kunze, K.",
+      "type": "poster"
+    },
+    {
+      "name": "Programmable Peripheral Vision: augment/reshape human visual perception",
+      "publisher": "Extended Abstracts, CHI Conference on Human Factors in Computing Systems (CHI EA '22) - Doctoral Consortium",
+      "releaseDate": "2022-04-29",
+      "url": "https://doi.org/10.1145/3491101.3503821",
+      "summary": "Zhang, Q.",
+      "type": "poster"
+    },
+    {
+      "name": "Inner self-drawing machine",
+      "publisher": "ACM SIGGRAPH Asia 2022 Art Gallery",
+      "releaseDate": "2022-12-06",
+      "url": "https://doi.org/10.1145/3550470.3558429",
+      "summary": "Zhang, Q., Xie, F., Huang, Y., Pai, Y. S., Chernyshov, G., Huang, J., Wang, X., Ward, J. A., Kunze, K.",
+      "type": "poster"
+    }
+  ],
+  "projects": [
+    {
+      "name": "The University of Tokyo x Princeton University Joint Research & Education Project",
+      "summary": "Role: Principal Investigator (UTokyo side).",
+      "highlights": [],
+      "startDate": "2025",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Dept. of Ophthalmology, UTokyo School of Medicine",
+      "summary": "Role: Project Lead (planning, design, execution).",
+      "highlights": [],
+      "startDate": "2024",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Murata Manufacturing Co., Ltd.",
+      "summary": "Joint research.",
+      "highlights": [],
+      "startDate": "2024",
+      "endDate": "2026",
+      "url": ""
+    },
+    {
+      "name": "Vixion Inc.",
+      "summary": "Role: Project Lead (planning, design, execution).",
+      "highlights": [],
+      "startDate": "2023",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "TOPPAN Inc.",
+      "summary": "Joint research.",
+      "highlights": [],
+      "startDate": "2023",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Georgia Institute of Technology - Prof. Thad Starner",
+      "summary": "Role: Project Lead (planning, design, execution).",
+      "highlights": [],
+      "startDate": "2021",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Goldsmiths, University of London - Senior Lecturer Jamie A. Ward",
+      "summary": "Joint research.",
+      "highlights": [],
+      "startDate": "2021",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Keio University Media Design (KMD), GEIST - Prof. Kai Kunze",
+      "summary": "Role: Project Lead (planning, design, execution).",
+      "highlights": [],
+      "startDate": "2019",
+      "endDate": "",
+      "url": ""
+    }
+  ],
+  "invited_talks": [
+    {
+      "title": "Visual Communication Design to HCI",
+      "date": "2025",
+      "host": "Hubei Institute of Fine Arts",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Design for the Future - 2023 Kanji Art Triennial \"East Meets West\"",
+      "date": "2023",
+      "host": "China Academy of Art",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Programmable Vision: Boosting Inclusive Design",
+      "date": "2023",
+      "host": "University of Science and Technology of China",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Visual Communication Design in Academic Writing",
+      "date": "2023",
+      "host": "University of Science and Technology of China",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Design for Desired Reality",
+      "date": "2023",
+      "host": "Wuhan Institute of Design and Sciences",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "exhibitions": [
+    {
+      "title": "SIGGRAPH Asia 2025, Emerging Technologies",
+      "date": "2025",
+      "venue": "Hong Kong, China",
+      "url": ""
+    },
+    {
+      "title": "SIGGRAPH 2025, Emerging Technologies",
+      "date": "2025",
+      "venue": "Vancouver, BC, Canada",
+      "url": ""
+    },
+    {
+      "title": "SIGGRAPH Asia 2022, Art Gallery",
+      "date": "2022",
+      "venue": "EXCO, Daegu, Korea",
+      "url": ""
+    },
+    {
+      "title": "Cat Exhibition",
+      "date": "2019",
+      "venue": "Tokyo University of the Arts, Art Plaza",
+      "url": ""
+    },
+    {
+      "title": "Media Art & Programming 2019",
+      "date": "2019",
+      "venue": "Tokyo University of the Arts, AMC Center",
+      "url": ""
+    },
+    {
+      "title": "MOT Satellite 2018 Autumn: Stories That Move",
+      "date": "2018",
+      "venue": "Museum of Contemporary Art Tokyo",
+      "url": ""
+    },
+    {
+      "title": "International Digital Picture Book Fair 2017 @ UTokyo",
+      "date": "2017",
+      "venue": "The University of Tokyo, Fukutake Hall",
+      "url": ""
+    },
+    {
+      "title": "Folkestone Triennial, UK 2017",
+      "date": "2017",
+      "venue": "Folkestone, United Kingdom",
+      "url": ""
+    },
+    {
+      "title": "Character Q&A - China-Japan Font Design Comparison",
+      "date": "2017",
+      "venue": "Hubei Museum of Art",
+      "url": ""
+    },
+    {
+      "title": "ArtPath 2015 & ArtPath 2016",
+      "date": "2015/2016",
+      "venue": "Tokyo University of the Arts",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Augmented Humans International Conference",
+      "position": "Program Committee Member",
+      "url": "",
+      "startDate": "2026",
+      "endDate": "2026",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Augmented Humans International Conference",
+      "position": "Demo Chair",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Conference & Journal Peer Review",
+      "position": "Reviewer",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "ACM CHI (2022-2026)",
+        "ACM UIST (2025-2026)",
+        "ACM IMWUT (2025-2026)",
+        "ACM SIGGRAPH (2026)",
+        "NeurIPS (2026)",
+        "IEEE ISMAR (2024-2025)",
+        "IEEE TVCG (2024-2025)"
+      ]
+    },
+    {
+      "organization": "The University of Tokyo",
+      "position": "Lecture Host & MC - Prof. Parastoo Abtahi (Princeton University)",
+      "url": "",
+      "startDate": "2026",
+      "endDate": "2026",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "The University of Tokyo",
+      "position": "Lecture Host & MC - Prof. Yuntao Wang (Tsinghua University)",
+      "url": "",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "The University of Tokyo",
+      "position": "Lecture Host & MC - Prof. Thad Starner (Georgia Tech)",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Shonan Meeting (NII) - Augmented Perception",
+      "position": "Researcher",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": []
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Human-Computer Interaction",
+      "level": "",
+      "icon": "fa-solid fa-glasses",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Wearable Computing",
+        "Smart Glasses & AR/VR",
+        "Eye Tracking & Gaze Interaction",
+        "Visual Perception Augmentation",
+        "Inclusive / Accessible Design"
+      ]
+    },
+    {
+      "name": "Human-AI Co-Creation",
+      "level": "",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "24/7 AI Assistants",
+        "Multimodal LLMs",
+        "Creative AI",
+        "First-Person Vision"
+      ]
+    },
+    {
+      "name": "Engineering & Prototyping",
+      "level": "",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "Wearable Sensing (IMU/EMG)",
+        "Tunable Optics",
+        "Python",
+        "Embedded / Hardware Prototyping"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "",
+      "icon": "fa-solid fa-pen-nib",
+      "keywords": [
+        "Visual Communication Design",
+        "Media Art",
+        "Interaction Design"
       ]
     }
   ],
@@ -160,15 +657,14 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research Interests",
+      "icon": "fa-solid fa-lightbulb",
       "keywords": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Wearable & Augmented Perception",
+        "Human-AI Co-Creation",
+        "24/7 AI Assistants",
+        "Inclusive Design for Aging",
+        "Art x Science"
       ]
     }
   ],
@@ -179,24 +675,14 @@
       "reference": ""
     },
     {
-      "name": "Professor Kai Kunze",
+      "name": "Professor Thad Starner",
       "icon": "fa-solid fa-thumbtack",
       "reference": ""
     },
     {
-      "name": "Professor Thad Starner",
+      "name": "Professor Kai Kunze",
       "icon": "fa-solid fa-thumbtack",
       "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "summary": "",
-      "highlights": [""],
-      "startDate": "1900-01-01",
-      "endDate": "1900-01-01",
-      "url": ""
     }
   ]
 }

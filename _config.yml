@@ -344,7 +344,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br", "fr-ca"]
+languages: ["en-us"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
@@ -643,13 +643,15 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
   - education
+  - work
+  - awards
+  - grants
   - publications
   - projects
+  - invited_talks
+  - exhibitions
   - volunteer
-  - awards
-  - certificates
   - skills
   - languages
   - interests

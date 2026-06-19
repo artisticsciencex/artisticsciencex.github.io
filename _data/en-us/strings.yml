@@ -31,9 +31,14 @@ cv:
   address: Address
   area: Area
   awarder: Awarder
-  awards: Awards
+  awards: Awards & Honors
   basics: General information
   certificates: Certificates
+  grants: Grants & Funding
+  invited_talks: Invited Talks
+  exhibitions: Exhibitions
+  host: Host
+  venue: Venue
   city: City
   countryCode: Country code
   courses: Courses
@@ -61,7 +66,7 @@ cv:
   postalCode: Postal Code
   present: Present
   profiles: Profiles
-  projects: Projects
+  projects: Collaborations & Joint Research
   publications: Publications
   publisher: Publisher
   reference: Reference
@@ -77,8 +82,8 @@ cv:
   title: Title
   url: Url
   username: Username
-  volunteer: Volunteer
-  work: Work
+  volunteer: Academic Service
+  work: Appointments
 footer:
   copyright: Copyright
   last_updated: "Last updated:"
