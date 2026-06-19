@@ -29,7 +29,6 @@
       institution: Rekimoto Lab, The University of Tokyo
       year: 2023 - 2024
 
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -45,7 +44,6 @@
     - title: Human-Robot Interaction.
       items:
         - Yowai (weak) Robot.
-        
 
 - title: Other Interests
   type: list

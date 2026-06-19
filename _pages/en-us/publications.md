@@ -14,8 +14,18 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<h2>Peer-Reviewed Papers (Full &amp; Short)</h2>
+
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[type_group=paper]* %}
+
+</div>
+
+<h2>Posters, Demos &amp; Extended Abstracts</h2>
+
+<div class="publications">
+
+{% bibliography --query @*[type_group=poster]* %}
 
 </div>

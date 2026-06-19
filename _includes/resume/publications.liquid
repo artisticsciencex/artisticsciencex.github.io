@@ -4,7 +4,12 @@
 {% assign typed_total = papers.size | plus: posters.size %}
 
 {% if papers.size > 0 %}
-  <h6 class="font-weight-bold text-uppercase mt-2 mb-2 ml-1 ml-md-4" style="letter-spacing: 0.5px; border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.3rem;">Peer-Reviewed Papers (Full &amp; Short)</h6>
+  <h6
+    class="font-weight-bold text-uppercase mt-2 mb-2 ml-1 ml-md-4"
+    style="letter-spacing: 0.5px; border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.3rem;"
+  >
+    Peer-Reviewed Papers (Full &amp; Short)
+  </h6>
   <ul class="card-text font-weight-light list-group list-group-flush mb-3">
     {% for content in papers %}
       {% if content.releaseDate %}{% assign date = content.releaseDate | split: '-' | first %}{% else %}{% assign date = '' %}{% endif %}
@@ -39,7 +44,12 @@
 {% endif %}
 
 {% if posters.size > 0 %}
-  <h6 class="font-weight-bold text-uppercase mt-2 mb-2 ml-1 ml-md-4" style="letter-spacing: 0.5px; border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.3rem;">Posters, Demos &amp; Extended Abstracts</h6>
+  <h6
+    class="font-weight-bold text-uppercase mt-2 mb-2 ml-1 ml-md-4"
+    style="letter-spacing: 0.5px; border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.3rem;"
+  >
+    Posters, Demos &amp; Extended Abstracts
+  </h6>
   <ul class="card-text font-weight-light list-group list-group-flush">
     {% for content in posters %}
       {% if content.releaseDate %}{% assign date = content.releaseDate | split: '-' | first %}{% else %}{% assign date = '' %}{% endif %}

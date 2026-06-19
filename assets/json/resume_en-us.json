@@ -5,7 +5,7 @@
     "image": "",
     "email": "qzkiyoshi'at'gmail.com",
     "url": "https://artisticsciencex.github.io/",
-    "summary": "Dr. Qing Zhang is an HCI researcher at the University of Tokyo specializing in wearable computing, human-AI co-creation, and the design of 24/7 AI assistants."
+    "summary": "Dr. Qing Zhang is an HCI researcher at the University of Tokyo working on wearable computing and programmable vision—augmenting human visual perception through smart eyewear—with a focus on inclusive design for aging and human-AI co-creation."
   },
   "education": [
     {
@@ -34,7 +34,7 @@
       "institution": "Hubei Institute of Fine Arts",
       "location": "Wuhan, China",
       "url": "https://researchmap.jp/qingzhang/education/46382982",
-      "area": "Fine Arts (Mural Painting)",
+      "area": "Visual Communication Design",
       "studyType": "Bachelor's",
       "startDate": "2009-10-01",
       "endDate": "2013-06-30",
@@ -89,7 +89,7 @@
       "summary": ""
     },
     {
-      "title": "Best Paper Honorable Mention (Top 2%)",
+      "title": "Best Paper Honorable Mention",
       "date": "2026",
       "awarder": "Augmented Humans International Conference (AHs 2026)",
       "url": "https://doi.org/10.1145/3795011.3795035",
@@ -354,72 +354,6 @@
       "type": "poster"
     }
   ],
-  "projects": [
-    {
-      "name": "The University of Tokyo x Princeton University Joint Research & Education Project",
-      "summary": "Role: Principal Investigator (UTokyo side).",
-      "highlights": [],
-      "startDate": "2025",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Dept. of Ophthalmology, UTokyo School of Medicine",
-      "summary": "Role: Project Lead (planning, design, execution).",
-      "highlights": [],
-      "startDate": "2024",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Murata Manufacturing Co., Ltd.",
-      "summary": "Joint research.",
-      "highlights": [],
-      "startDate": "2024",
-      "endDate": "2026",
-      "url": ""
-    },
-    {
-      "name": "Vixion Inc.",
-      "summary": "Role: Project Lead (planning, design, execution).",
-      "highlights": [],
-      "startDate": "2023",
-      "endDate": "2025",
-      "url": ""
-    },
-    {
-      "name": "TOPPAN Inc.",
-      "summary": "Joint research.",
-      "highlights": [],
-      "startDate": "2023",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Georgia Institute of Technology - Prof. Thad Starner",
-      "summary": "Role: Project Lead (planning, design, execution).",
-      "highlights": [],
-      "startDate": "2021",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Goldsmiths, University of London - Senior Lecturer Jamie A. Ward",
-      "summary": "Joint research.",
-      "highlights": [],
-      "startDate": "2021",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Keio University Media Design (KMD), GEIST - Prof. Kai Kunze",
-      "summary": "Role: Project Lead (planning, design, execution).",
-      "highlights": [],
-      "startDate": "2019",
-      "endDate": "",
-      "url": ""
-    }
-  ],
   "invited_talks": [
     {
       "title": "Visual Communication Design to HCI",
@@ -437,13 +371,6 @@
     },
     {
       "title": "Programmable Vision: Boosting Inclusive Design",
-      "date": "2023",
-      "host": "University of Science and Technology of China",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Visual Communication Design in Academic Writing",
       "date": "2023",
       "host": "University of Science and Technology of China",
       "url": "",
@@ -592,52 +519,6 @@
       "highlights": []
     }
   ],
-  "skills": [
-    {
-      "name": "Human-Computer Interaction",
-      "level": "",
-      "icon": "fa-solid fa-glasses",
-      "keywords": [
-        "Wearable Computing",
-        "Smart Glasses & AR/VR",
-        "Eye Tracking & Gaze Interaction",
-        "Visual Perception Augmentation",
-        "Inclusive / Accessible Design"
-      ]
-    },
-    {
-      "name": "Human-AI Co-Creation",
-      "level": "",
-      "icon": "fa-solid fa-robot",
-      "keywords": [
-        "24/7 AI Assistants",
-        "Multimodal LLMs",
-        "Creative AI",
-        "First-Person Vision"
-      ]
-    },
-    {
-      "name": "Engineering & Prototyping",
-      "level": "",
-      "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Wearable Sensing (IMU/EMG)",
-        "Tunable Optics",
-        "Python",
-        "Embedded / Hardware Prototyping"
-      ]
-    },
-    {
-      "name": "Design",
-      "level": "",
-      "icon": "fa-solid fa-pen-nib",
-      "keywords": [
-        "Visual Communication Design",
-        "Media Art",
-        "Interaction Design"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "Chinese",
@@ -659,13 +540,7 @@
     {
       "name": "Research Interests",
       "icon": "fa-solid fa-lightbulb",
-      "keywords": [
-        "Wearable & Augmented Perception",
-        "Human-AI Co-Creation",
-        "24/7 AI Assistants",
-        "Inclusive Design for Aging",
-        "Art x Science"
-      ]
+      "keywords": ["Wearable & Augmented Perception", "Human-AI Co-Creation", "24/7 AI Assistants", "Inclusive Design for Aging", "Art x Science"]
     }
   ],
   "references": [
