@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://artisticsciencex.github.io/sitemap.xml

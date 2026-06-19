@@ -34,7 +34,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-publicações",
+              title: "publicações",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "dropdown-projetos",
+              title: "projetos",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -369,14 +390,30 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en-us/the_godfather/";
-            },},{id: "news-two-papers-were-accepted-by-neurips-25-creative-ai-track",
-          title: 'Two papers were accepted by NeurIPS’25 creative ai track.',
+            },},{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/pt-br/the_godfather/";
+            },},{id: "news-um-anúncio-simples-em-uma-linha",
+          title: 'Um anúncio simples em uma linha.',
+          description: "",
+          section: "News",},{id: "news-um-anúncio-longo-com-detalhes",
+          title: 'Um anúncio longo com detalhes',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/pt-br/announcement_2/";
+            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
+          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-one-paper-beyond-symbols-motion-perception-cues-enhance-dual-task-performance-with-wearable-directional-guidance-has-been-accepted-by-ubicomp-iswc-2025",
+          title: 'One paper, “Beyond Symbols: Motion Perception Cues Enhance Dual-Task Performance with Wearable Directional...',
           description: "",
           section: "News",},{id: "news-a-demo-paper-has-been-accepted-by-siggraph-asia-emerging-technologies",
           title: 'A demo paper has been accepted by SIGGRAPH Asia Emerging Technologies.',
           description: "",
-          section: "News",},{id: "news-one-paper-beyond-symbols-motion-perception-cues-enhance-dual-task-performance-with-wearable-directional-guidance-has-been-accepted-by-ubicomp-iswc-2025",
-          title: 'One paper, “Beyond Symbols: Motion Perception Cues Enhance Dual-Task Performance with Wearable Directional...',
+          section: "News",},{id: "news-two-papers-were-accepted-by-neurips-25-creative-ai-track",
+          title: 'Two papers were accepted by NeurIPS’25 creative ai track.',
           description: "",
           section: "News",},{id: "news-opticalaging-real-time-presbyopia-simulation-for-inclusive-design-via-tunable-lenses-best-paper-honorable-mention-augmented-humans-2026",
           title: '“OpticalAging: Real-time Presbyopia Simulation for Inclusive Design via Tunable Lenses”, Best Paper Honorable...',
@@ -451,20 +488,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=qedjW9oAAAAJ", "_blank");
         },
       },{
-          id: 'lang-pt-br',
-          title: 'pt-br',
-          section: 'Languages',
-          handler: () => {
-            window.location.href = "/pt-br" + updatedUrl;
-          },
-        },{
-          id: 'lang-fr-ca',
-          title: 'fr-ca',
-          section: 'Languages',
-          handler: () => {
-            window.location.href = "/fr-ca" + updatedUrl;
-          },
-        },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
