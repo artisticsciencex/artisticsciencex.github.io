@@ -14,25 +14,60 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-sobre",
+    title: "sobre",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
+  },{id: "nav-blog",
+          title: "blog",
+          description: "um tema simples para acadêmicos",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-publicações",
+          title: "publicações",
+          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projetos",
+          title: "projetos",
+          description: "Uma crescente coleção de seus projetos interessantes.",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-repositórios",
+          title: "repositórios",
+          description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/repositories/";
+          },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-ensino",
+          title: "ensino",
+          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-membros",
+          title: "membros",
+          description: "membros do grupo de pesquisa ou laboratório",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
