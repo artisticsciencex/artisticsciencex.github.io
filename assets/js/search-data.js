@@ -14,60 +14,25 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-sobre",
-    title: "sobre",
+    id: "nav-about",
+    title: "about",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "um tema simples para acadêmicos",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "publications by categories in reversed chronological order.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projetos",
-          title: "projetos",
-          description: "Uma crescente coleção de seus projetos interessantes.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-repositórios",
-          title: "repositórios",
-          description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+          description: "",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-ensino",
-          title: "ensino",
-          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-membros",
-          title: "membros",
-          description: "membros do grupo de pesquisa ou laboratório",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -404,23 +369,7 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en-us/the_godfather/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/books/pt-br/the_godfather/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha",
-          title: 'Um anúncio simples em uma linha.',
-          description: "",
-          section: "News",},{id: "news-um-anúncio-longo-com-detalhes",
-          title: 'Um anúncio longo com detalhes',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/pt-br/announcement_2/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-one-paper-beyond-symbols-motion-perception-cues-enhance-dual-task-performance-with-wearable-directional-guidance-has-been-accepted-by-ubicomp-iswc-2025",
+            },},{id: "news-one-paper-beyond-symbols-motion-perception-cues-enhance-dual-task-performance-with-wearable-directional-guidance-has-been-accepted-by-ubicomp-iswc-2025",
           title: 'One paper, “Beyond Symbols: Motion Perception Cues Enhance Dual-Task Performance with Wearable Directional...',
           description: "",
           section: "News",},{id: "news-a-demo-paper-has-been-accepted-by-siggraph-asia-emerging-technologies",
