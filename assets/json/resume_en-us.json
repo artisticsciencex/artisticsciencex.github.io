@@ -171,10 +171,10 @@
   "publications": [
     {
       "name": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
-      "publisher": "35th International Joint Conference on Artificial Intelligence (IJCAI 2026), Human-Centred AI Track",
+      "publisher": "Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence (IJCAI-26), Human-Centred AI Track",
       "releaseDate": "2026-08-15",
-      "url": "https://2026.ijcai.org/accepted-papers/?ijtrack=special-track-on-human-centred-ai",
-      "summary": "Zhang, Q., Huang, Y., Lee, J., Starner, T., Rekimoto, J. — Bremen, Germany (to be presented Aug 2026).",
+      "url": "https://doi.org/10.24963/ijcai.2026/857",
+      "summary": "Zhang, Q., Huang, Y., Lee, J., Starner, T., Rekimoto, J. — pp. 7712–7720, Bremen, Germany.",
       "type": "paper"
     },
     {
